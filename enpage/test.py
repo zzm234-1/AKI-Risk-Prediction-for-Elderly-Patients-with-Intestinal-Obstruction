@@ -54,7 +54,7 @@ def get_input():
 input_df = get_input()
 
 # ---------------- 4. Main interface ----------------
-st.title("🏥 AKI Risk Prediction for Elderly Patients with Intestinal Obstruction")
+st.title("🏥 AKI Risk Prediction for Elderly Patients with Paralytic Ileus")
 st.write(
     "Enter the patient's clinical parameters in the sidebar, "
     "then click the button below to obtain the AI-based AKI risk assessment "
